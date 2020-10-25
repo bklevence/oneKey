@@ -1,12 +1,12 @@
-jawnWare: oneKey (obsolete, check forked)
+oneKey 2020
 ===========
 
-![jawnWare_8](https://farm8.staticflickr.com/7541/16070417977_e72329ab9a_z.jpg) 
+![jawnWare_8](https://farm8.staticflickr.com/7541/16070417977_e72329ab9a_z.jpg)
 
 
 Project Focus
 -------------------
-Developing a low-cost (<$2) and accessible derivative of the MaKey MaKey so that it can be sustainably deployed via workshops at various library branches. 
+Developing a low-cost (<$2) and accessible derivative of the MaKey MaKey so that it can be sustainably deployed via workshops at various library branches.
 
 The aim is to introduce youth in underserved/low-income communities to making hardware that they can then tinker/play/make with. It's adressing the question "Can I take this home?" and the inability for youth to use take projects using digital media tools such as the MaKey MaKey home.
 
@@ -50,9 +50,9 @@ Repository Contents
 
 Variations
 ----------------
-**Vinyl Cut Copper Tape** 
+**Vinyl Cut Copper Tape**
 
-![oneKey Vinyl](https://farm8.staticflickr.com/7500/16254418821_7e90b29a9c_b.jpg) 
+![oneKey Vinyl](https://farm8.staticflickr.com/7500/16254418821_7e90b29a9c_b.jpg)
 
 This build requres soldering and takes an hour to construct. The tape can be tricky to adhere to a substrate, but for all intents and purposes IT WORKS!
 
@@ -103,6 +103,6 @@ people
 License Information
 -------------------
 The hardware is released under [Creative Commons Share-alike 3.0](http://creativecommons.org/licenses/by-sa/3.0/).  
-All other code is open source hardware so please feel free to do anything you want with it; 
+All other code is open source hardware so please feel free to do anything you want with it;
 you buy me a beer if you use this and we meet someday ([Beerware license](http://en.wikipedia.org/wiki/Beerware)).
 Please support [Digispark](https://github.com/sparkfun/makeymakey) and [JoyLabs](https://github.com/sparkfun/makeymakey) and buy their products if you decide to remix. Without their creativity and ingenuity this project would never have happened.
